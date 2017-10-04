@@ -6,7 +6,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.mon" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>wa.py</mask>
       <mask>wat.py</mask>
@@ -32,12 +32,12 @@
       <mask>10</mask>
       <mask>1</mask>
       <mask>*</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.mo</mask>
       <mask>*.mon</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
