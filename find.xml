@@ -2,22 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>wa.py</mask>
-      <mask>wat.py</mask>
-      <mask>watc.py</mask>
       <mask>watch.py</mask>
       <mask>watch*.py</mask>
       <mask>.py</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.*</mask>
       <mask>D</mask>
       <mask>Doc</mask>
       <mask>Docke</mask>
@@ -32,12 +23,19 @@
       <mask>10</mask>
       <mask>1</mask>
       <mask>*</mask>
+      <mask>*.poy</mask>
+      <mask>*.po</mask>
+      <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.jav</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.m</mask>
       <mask>*.mo</mask>
       <mask>*.mon</mask>
-      <mask>*.p</mask>
-      <mask>*.py</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
