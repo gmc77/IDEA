@@ -4,9 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
-      <mask>watch.py</mask>
       <mask>watch*.py</mask>
       <mask>.py</mask>
       <mask>D</mask>
@@ -28,14 +27,15 @@
       <mask>*.py</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
-      <mask>*.m</mask>
-      <mask>*.mo</mask>
-      <mask>*.mon</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.m</mask>
+      <mask>*.mo</mask>
+      <mask>*.mon</mask>
+      <mask>*.8</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
