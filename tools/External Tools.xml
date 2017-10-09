@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="docker-compose " />
       <option name="PARAMETERS" value="run website make setup" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
 </toolSet>
