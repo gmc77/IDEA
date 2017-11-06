@@ -4,11 +4,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>watch*.py</mask>
-      <mask>.py</mask>
-      <mask>D</mask>
       <mask>Doc</mask>
       <mask>Docke</mask>
       <mask>Docker</mask>
@@ -34,8 +31,11 @@
       <mask>*.mo</mask>
       <mask>*.mon</mask>
       <mask>*.8</mask>
-      <mask>*.</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
