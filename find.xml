@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>Doc</mask>
       <mask>Docke</mask>
@@ -18,7 +18,6 @@
       <mask>102</mask>
       <mask>10</mask>
       <mask>1</mask>
-      <mask>*</mask>
       <mask>*.poy</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
@@ -30,12 +29,13 @@
       <mask>*.mo</mask>
       <mask>*.mon</mask>
       <mask>*.8</mask>
-      <mask>*.*</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.py</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
