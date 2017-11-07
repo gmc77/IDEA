@@ -21,10 +21,7 @@
       <mask>*.poy</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.m</mask>
       <mask>*.mo</mask>
       <mask>*.mon</mask>
@@ -35,6 +32,9 @@
       <mask>*.py</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
