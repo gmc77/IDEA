@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>Doc</mask>
       <mask>Docke</mask>
@@ -22,7 +20,6 @@
       <mask>1</mask>
       <mask>*.poy</mask>
       <mask>*.po</mask>
-      <mask>*.p</mask>
       <mask>*.jav</mask>
       <mask>*.m</mask>
       <mask>*.mo</mask>
@@ -31,13 +28,14 @@
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
-      <mask>*.py</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
