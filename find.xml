@@ -32,9 +32,9 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*.*</mask>
     </recentFileMasks>
   </component>
