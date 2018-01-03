@@ -2,11 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>Docker</mask>
       <mask>Dockerf</mask>
@@ -33,11 +31,11 @@
       <mask>*.java</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.pt</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
-      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
