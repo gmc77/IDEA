@@ -5,11 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.txt" />
     <recentFileMasks>
-      <mask>Dockerfile</mask>
-      <mask>Dockerfile-*</mask>
-      <mask>Dockerfile-</mask>
       <mask>102</mask>
       <mask>10</mask>
       <mask>1</mask>
@@ -37,6 +34,9 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.t</mask>
+      <mask>*.tx</mask>
+      <mask>*.txt</mask>
     </recentFileMasks>
   </component>
 </application>
