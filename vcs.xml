@@ -10,8 +10,12 @@
           <option name="url" value="https://gitlab.com/white.space/Qi/infrastructure.backend" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/white.space/Qi/data-ingestion.pipeline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dev/Qi" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev/Qi/code" />
   </component>
 </application>
