@@ -7,6 +7,8 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="mon" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="pk12" type="PLAIN_TEXT" />
+      <mapping ext="pk7" type="PLAIN_TEXT" />
       <mapping ext="yanl" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
