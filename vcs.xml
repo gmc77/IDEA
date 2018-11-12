@@ -66,8 +66,12 @@
           <option name="url" value="https://gitlab.com/white.space/Qi/data-processing.sensitivities.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/white.space/found/lost-found.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dev/Qi/code" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev/Found" />
   </component>
 </application>
